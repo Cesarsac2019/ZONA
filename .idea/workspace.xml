@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a5db88c6-f686-4db6-8006-850fc00b96d5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Crud/CRUD/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_Crud/CRUD/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Crud/CRUD/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_Crud/CRUD/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_Crud/Django_Crud/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_Crud/Django_Crud/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Django_Crud/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Django_Crud/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Crud/templates/master.html" beforeDir="false" afterPath="$PROJECT_DIR$/Django_Crud/templates/master.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572803965182</updated>
-      <workItem from="1572803970064" duration="3178000" />
+      <workItem from="1572803970064" duration="3838000" />
     </task>
     <servers />
   </component>
